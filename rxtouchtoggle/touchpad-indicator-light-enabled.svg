@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 128 128"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="touchpad-indicator-light-enabled.svg"
+   width="128"
+   height="128">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="5.2668087"
+     inkscape:cy="60.907093"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <path
+     d="m 31.342731,16.5 c -8.164318,0 -14.84273,6.670246 -14.84273,14.84273 v 65.314536 c 0,8.164324 6.670247,14.842734 14.84273,14.842734 H 96.657266 C 104.82159,111.5 111.5,104.82976 111.5,96.657266 V 31.34273 C 111.5,23.178411 104.82976,16.5 96.657266,16.5 Z m 0,5.935459 h 65.314535 c 4.988404,0 8.907274,3.918872 8.907274,8.907271 v 65.314536 c 0,4.988404 -3.91887,8.907274 -8.907274,8.907274 H 31.342731 c -4.9884,0 -8.907272,-3.91887 -8.907272,-8.907274 V 31.34273 c 0,-4.988399 3.918872,-8.907271 8.907272,-8.907271 z"
+     style="color:#000000;display:inline;visibility:visible;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:5.9375"
+     id="path4"
+     inkscape:connector-curvature="0" />
+  <rect
+     width="95"
+     height="5.9354587"
+     x="16.5"
+     y="81.814537"
+     style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:5.9375"
+     id="rect6" />
+  <rect
+     y="-69.935463"
+     x="81.814537"
+     height="11.879083"
+     width="29.685457"
+     transform="rotate(90)"
+     style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:5.9375"
+     id="rect8" />
+</svg>

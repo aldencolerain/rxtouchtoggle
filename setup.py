@@ -19,7 +19,7 @@ setup(
     include_package_data=True,
 
     # public dependencies
-    install_requires=['pyyaml >= 5'],
+    install_requires=['PyGObject >= 3'],
 
     # keep this package private
     classifiers=['Private :: Do Not Upload'],

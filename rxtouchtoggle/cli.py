@@ -1,6 +1,6 @@
 import sys
 import argparse
-from . import calc
+from . import toggle
 
 
 def main():
@@ -8,21 +8,14 @@ def main():
     parser = argparse.ArgumentParser(description='')
     subparsers = parser.add_subparsers(help='')
 
-    # commands.register('create', commands.create, subparsers)
-    add_parser = subparsers.add_parser('add', help='add two integers')
-    add_parser.set_defaults(cmd=calc.add)
-    add_parser.add_argument("a", help="first integer (addend)")
-    add_parser.add_argument("b", help="second integer (addend)")
-
-    sub_parser = subparsers.add_parser('sub', help='subtract two integers')
-    sub_parser.set_defaults(cmd=calc.sub)
-    sub_parser.add_argument("a", help="first integer (minuend)")
-    sub_parser.add_argument("b", help="second integer (subtrahend)")
+    # start toggle command
+    add_parser = subparsers.add_parser('start', help='start touche toggle tray widget')
+    add_parser.set_defaults(cmd=toggle.start)
 
     # parse args and execute command
     args = parser.parse_args()
     if hasattr(args, 'cmd'):
-        print(args.cmd(int(args.a), int(args.b)))
+        args.cmd()
         sys.exit()
     else:
         parser.print_help()
