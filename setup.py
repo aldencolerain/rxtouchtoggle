@@ -10,7 +10,7 @@ setup(
     version='0.0.1',
     author='Alden',
     url='https://github.com/aldencolerain/rxtouchtoggle.git',
-    description='Example pip package.',
+    description='Touch toggle for indicator for Xubuntu.',
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
 
